@@ -1,2 +1,2 @@
 # SEC-EDGAR-API
-Get some data off of EDGAR and visualize it.
+Use the EDGAR API from Python/Jupyter Notebook
